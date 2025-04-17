@@ -7,3 +7,5 @@ print("dit is een sluipmoordernaar")
 
 het is weer een mooie dag
 xxsubtype
+
+wet ik veel
